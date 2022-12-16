@@ -1,4 +1,4 @@
-# Elastuc Smart Contract
+# Elastic Smart Contract
 
 ## Table of Contents
 - [Quorum Dev Quickstart](#quorum-dev-quickstart)
